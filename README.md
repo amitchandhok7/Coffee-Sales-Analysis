@@ -1,4 +1,4 @@
-# Coffee-Sales-Analysis
+# Coffee Sales Analysis
 
 One of my goals in life is to open a coffee shop that provides unique flavours for those looking to try something different and still offer coffee for those adhering to a busy schedule. I understand to properly run a coffee shop, I need to be able to manage sales and understand the performance of my items. 
 
