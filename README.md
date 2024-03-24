@@ -12,7 +12,7 @@ To answer these questions, I emplyed the following tools:
 - SQL
 - Tableau
 
-From conducting this analysis, I found that:
+From this analysis, I found that:
 - Large Hot Chocolates are the most sold item at the cafe, with sales peaking in the winter months.
 - Friday's are the most popular day throughout the year, with espressos being the most popular choice.
 - On average, 128 bakery items sell in a day
